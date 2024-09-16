@@ -1,0 +1,56 @@
+/* *{ */
+    /* margin: 0px; */
+    /* padding: 0px; */
+/* } */
+
+
+table{
+    border: 10px solid rgb(218, 31, 31);
+    background-color: rgb(132, 132, 132);        
+    
+}
+
+tr{
+    background-color: rgb(130, 130, 130);
+   
+}
+
+.box{
+    width: 465px;
+    height: 250px;
+    margin: 10px;
+    padding: -25px;
+    border: 5px solid black;
+    /* background-color: var(--box-background-color) */
+    background-image: url('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHFvZ2c0OWIyNHd0cnJseHV3aGtjbWI1aWRmbWc0YXBwaDFvY2J4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oobNzX5ICcRZC/giphy.webp');
+}
+
+.box2{
+    height: 450px;
+    width: 250px;
+    background-image: url('https://media.tenor.com/xZqRuq3iKFsAAAAM/spongebob-spongebob-meme.gif');
+    border: 5px solid black;
+}
+
+
+.box3{
+    height: 450px;
+    width: 450px;
+    background-image: url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFrZG5tZDBhZWV2dzhzNjkwcmYwbmI4dHI3MHp6a3NtaW41MzdvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tMyCJmeXHBetq/giphy.webp');
+    border: 5px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.box4{
+    height: 450px;
+    width: 500px;
+    background-image: url('https://th.bing.com/th/id/R.9caf57a35a5f702a92621f7f0aca8e4d?rik=uoxnvgNXlZY8Aw&pid=ImgRaw&r=0');
+    border: 5px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+:root{
+    --box-background-color: orange;
+}
